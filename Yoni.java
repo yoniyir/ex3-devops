@@ -1,7 +1,7 @@
 public class Yoni {
    public static void main(String[] args) {
       for (int i = 0; i < 5; i++) {
-         System.out.println("Yoni"+i);
+         System.out.println(i+"Yoni - Now has changed the code!");
       }
    }
 }
